@@ -1,1 +1,5 @@
 In this repository, I try to follow the http://rubykoans.com/[Ruby Koans].
+
+gem install observr
+cd koans
+observr koans.watchr
