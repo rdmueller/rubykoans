@@ -1,4 +1,4 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/rdmueller/rubykoans) 
+image::https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod[Gitpod Ready-to-Code,link=https://gitpod.io/#https://github.com/rdmueller/rubykoans] 
 
 In this repository, I try to follow the http://rubykoans.com/[Ruby Koans].
 
