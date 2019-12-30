@@ -33,9 +33,6 @@ def score(dice)
   res = 0
   rollNum = 0
   pos = 0
-  puts "test"
-  #puts dice
-  puts dice.size()
   while rollNum < dice.size()
     roll = dice[rollNum]
     if (roll==1 && dice[rollNum+1]==1 && dice[rollNum+2]==1) 
